@@ -18,7 +18,7 @@ This project uses a custom PowerShell script to extract metadata from the Window
 
 <p align="center">
 <br/>
-<img src="https://i.imgur.com/ueyjzYA.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ueyjzYA.jpg" height="80%" width="80%" alt="Map"/>
 <br />
 <br />
 
