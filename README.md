@@ -14,7 +14,7 @@ This project uses a custom PowerShell script to extract metadata from the Window
 
 - <b>ipgeolocation.io: IP Address to Geolocation API</b> 
 
-<h2>World map of incoming attacks after 18 hours (built custom logs including geodata)</h2>
+<h2>World map of incoming attacks after 18 hours </h2>
 
 <p align="center">
 <br/>
